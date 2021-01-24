@@ -1,0 +1,59 @@
+{
+  "locksmith:FreeKey": {
+    "NAME": "Freaky",
+    "FLAVOR": "Wait, I thought it was a free key!",
+    "DESCRIPTIONS": [
+      "At the start of each combat, summon a Dummy with #b6 HP. If it dies, add #b2 #yKeys into your hand."
+    ]
+  },
+  "locksmith:BlockKey": {
+    "NAME": "Block Key",
+    "FLAVOR": "Why is it a key? Because I'm lazy at art.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, summon a Dummy with #b12 HP. If it dies, gain #b8 #yBlock."
+    ]
+  },
+  "locksmith:MeanKey": {
+    "NAME": "Mean Key",
+    "FLAVOR": "Grrrrr *unlocks*",
+    "DESCRIPTIONS": [
+      "#yKeys deal #b2 additional damage."
+    ]
+  },
+  "locksmith:Unlocker": {
+    "NAME": "Unlocker",
+    "FLAVOR": "Boom. Macgyver'd.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, remove all #yLocks from a random #yLocked card."
+    ]
+  },
+  "locksmith:EmptyKey": {
+    "NAME": "Empty Key",
+    "FLAVOR": "Holds space for more Keys.",
+    "DESCRIPTIONS": [
+      "Raise your maximum hand size by #b5. NL At the start of each combat, add #b1 #yKey into your hand."
+    ]
+  },
+  "locksmith:AntiKey": {
+    "NAME": "Anti Key",
+    "FLAVOR": "A key that locks???",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the start of each combat, #yLock #b3 random cards."
+    ]
+  },
+  "locksmith:GremlinHornTwo": {
+    "NAME": "Gremlin Horn???",
+    "FLAVOR": "WHAT",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, gain [E] and draw #b1 card."
+    ]
+  },
+  "locksmith:VeryFreaky": {
+    "NAME": "Very Freaky",
+    "FLAVOR": "Now this is just weird.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL At the start of even numbered turns, summon a Dummy with #b6 HP. If one dies, add #b2 #yKeys into your hand."
+    ]
+  }
+}

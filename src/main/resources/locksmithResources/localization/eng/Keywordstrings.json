@@ -1,0 +1,31 @@
+[
+  {
+    "PROPER_NAME": "Locked",
+    "NAMES": [
+      "locked",
+      "lock"
+    ],
+    "DESCRIPTION": "May only be played by paying the additional cost of #yExhausting #yKeys from your hand from left to right."
+  },
+  {
+    "PROPER_NAME": "Crippled",
+    "NAMES": [
+      "crippled"
+    ],
+    "DESCRIPTION": "An enemy is Crippled if it has both #yWeak and #yVulnerable."
+  },
+  {
+    "PROPER_NAME": "Hexx",
+    "NAMES": [
+      "hexx"
+    ],
+    "DESCRIPTION": "Hexxed creatures lose HP at the start of their turn."
+  },
+  {
+    "PROPER_NAME": "Equalize",
+    "NAMES": [
+      "equalize"
+    ],
+    "DESCRIPTION": "If the enemy has #yWeak, apply #b1 #yVulnerable. If the enemy has #yVulnerable, apply #b1 #yWeak."
+  }
+]

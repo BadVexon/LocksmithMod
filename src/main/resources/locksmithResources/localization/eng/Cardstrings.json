@@ -1,0 +1,361 @@
+{
+  "locksmith:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "locksmith:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "locksmith:Key": {
+    "NAME": "Key",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+  },
+  "locksmith:KeyMove": {
+    "NAME": "Key Move",
+    "DESCRIPTION": "Apply !M! Weak. NL Add 1 *Key into your hand."
+  },
+  "locksmith:LockCrash": {
+    "NAME": "Lock Crash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply 2 Vulnerable."
+  },
+  "locksmith:HiddenPower": {
+    "NAME": "Hidden Power",
+    "DESCRIPTION": "Gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain 1 Strength."
+  },
+  "locksmith:LockBlock": {
+    "NAME": "Lock Block",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "locksmith:JingleLoan": {
+    "NAME": "Jingle Loan",
+    "DESCRIPTION": "Innate. NL Add !M! *Keys into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Add !M! *Keys into your hand. NL Exhaustive !stslib:ex!."
+  },
+  "locksmith:Keysmack": {
+    "NAME": "Keysmack",
+    "DESCRIPTION": "Deal !D! damage. NL Add 1 *Key into your hand."
+  },
+  "locksmith:KeychainRain": {
+    "NAME": "Keychain Rain",
+    "DESCRIPTION": "Deal !D! damage. NL If your hand contains 3 or more *Keys, deal !D! damage again."
+  },
+  "locksmith:ExplodingDummy": {
+    "NAME": "Exploding Dummy",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, it deals !todo! damage to ALL non-Dummy enemies."
+  },
+  "locksmith:StrengthDummy": {
+    "NAME": "Strength Dummy",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, you gain !todo! Strength."
+  },
+  "locksmith:AngerKey": {
+    "NAME": "Key To Rage",
+    "DESCRIPTION": "Gain !M! Strength. NL At the end of your turn, lose !M! Strength. NL Add 1 *Key into your hand."
+  },
+  "locksmith:Anime": {
+    "NAME": "Anime",
+    "DESCRIPTION": "Add 1 *Key into your hand. NL *Keys in your hand become *Keyblades with !M! bonus damage."
+  },
+  "locksmith:PuppetGuard": {
+    "NAME": "Puppet Guard",
+    "DESCRIPTION": "Summon a Dummy with 6 HP. NL If it dies, it grants you !M! Block."
+  },
+  "locksmith:DummyRevenge": {
+    "NAME": "Dummy's Revenge",
+    "DESCRIPTION": "Summon a Dummy with 10 HP. NL At the end of your turn, each Dummy makes a random enemy lose !M! HP."
+  },
+  "locksmith:Voodoo": {
+    "NAME": "Voodoomy",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, so do ALL enemies."
+  },
+  "locksmith:DeathGaze": {
+    "NAME": "Death Glare",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! locksmith:Hexx to ALL locksmith:Crippled enemies."
+  },
+  "locksmith:BuriedCurse": {
+    "NAME": "Buried Curse",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Apply !M! Vulnerable."
+  },
+  "locksmith:ShrapnelLock": {
+    "NAME": "Shrapnel Lock",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "locksmith:SappingKeys": {
+    "NAME": "Sapping Keys",
+    "DESCRIPTION": "*Keys make their targets lose 1 Strength this turn.",
+    "UPGRADE_DESCRIPTION": "*Keys make their targets lose 1 Strength this turn. NL Add 1 *Key into your hand."
+  },
+  "locksmith:Padlock": {
+    "NAME": "Padlock",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "locksmith:LockSmack": {
+    "NAME": "Lock Smack",
+    "DESCRIPTION": "Deal !D! damage. NL locksmith:Lock the top card of your draw pile."
+  },
+  "locksmith:DrainingFog": {
+    "NAME": "Draining Miasma",
+    "DESCRIPTION": "Whenever a card is Exhausted, ALL enemies lose !M! HP."
+  },
+  "locksmith:SkeletonKey": {
+    "NAME": "Skeleton Key",
+    "DESCRIPTION": "Add 5 *Keys into your hand. NL Exhaust."
+  },
+  "locksmith:PowerSap": {
+    "NAME": "Power Sap",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy is locksmith:Crippled, they lose 1 Strength and you gain 1 Strength."
+  },
+  "locksmith:BolsteringKeys": {
+    "NAME": "Boosting Keys",
+    "DESCRIPTION": "Whenever you play a *Key, gain 1 Strength that turn.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a *Key, gain 1 Strength that turn. NL Add 1 *Key into your hand."
+  },
+  "locksmith:SmackSmackBurn": {
+    "NAME": "Smack Smack Burn",
+    "DESCRIPTION": "Deal !D! damage. NL Deal !sddy! damage. NL Exhaust 1 card."
+  },
+  "locksmith:BlockAndKey": {
+    "NAME": "Block And Key",
+    "DESCRIPTION": "Gain !B! Block. NL Add 1 *Key into your hand."
+  },
+  "locksmith:CursedKey": {
+    "NAME": "Cursed Key",
+    "DESCRIPTION": "Counts as a *Key. NL Deal !D! damage. NL If this card is Exhausted, apply !M! locksmith:Hexx to ALL enemies."
+  },
+  "locksmith:Capitalize": {
+    "NAME": "Capitalize",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy is locksmith:Crippled, locksmith:Equalize."
+  },
+  "locksmith:CripplingDummy": {
+    "NAME": "Crippling Fake",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, it applies !todo! Weak and Vulnerable to ALL enemies."
+  },
+  "locksmith:DoubleKey": {
+    "NAME": "Double Key",
+    "DESCRIPTION": "Unplayable. NL Counts as a *Key. NL If this card is Exhausted, add 1 *Key into your hand.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL Counts as a *Key. NL If this card is Exhausted, add 1 *Double *Key into your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "This card may not be played.",
+      "Triple Key"
+    ]
+  },
+  "locksmith:ZaHando": {
+    "NAME": "Za Hando",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust the middle card(s) of your hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      ")"
+    ]
+  },
+  "locksmith:EvilKeys": {
+    "NAME": "Boosting Keys",
+    "DESCRIPTION": "Whenever you play a *Key, gain 1 Strength until the end of your turn."
+  },
+  "locksmith:PocketKey": {
+    "NAME": "Pocket Key",
+    "DESCRIPTION": "Gain !M! Strength this turn. NL Add 1 *Key into your hand."
+  },
+  "locksmith:GolfGash": {
+    "NAME": "Golf Gash",
+    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+  },
+  "locksmith:TheLock": {
+    "NAME": "The Lock",
+    "DESCRIPTION": "Deal !D! damage. NL locksmith:Lock your hand."
+  },
+  "locksmith:Curse": {
+    "NAME": "Curse",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx."
+  },
+  "locksmith:Prep": {
+    "NAME": "Prep",
+    "DESCRIPTION": "Add 1 *Key into your hand. NL locksmith:Equalize.",
+    "UPGRADE_DESCRIPTION": "Add 1 *Key into your hand. NL locksmith:Equalize twice."
+  },
+  "locksmith:TrashToTreasure": {
+    "NAME": "Trash To Treasure",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx. NL If the enemy is locksmith:Crippled, apply !M! locksmith:Hexx again."
+  },
+  "locksmith:HexingDummy": {
+    "NAME": "Mirror Magic",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL Whenever it loses HP, all non-Dummy enemies gain that much locksmith:Hexx."
+  },
+  "locksmith:SliceSlash": {
+    "NAME": "Slice Slash",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Deal !sddy! damage to ALL enemies."
+  },
+  "locksmith:Recharge": {
+    "NAME": "Rejuvenation",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL If you have no *Keys, add 2 *Keys into your hand."
+  },
+  "locksmith:BlockBurnDraw": {
+    "NAME": "Block Burn Draw",
+    "DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card at random. NL Draw 2 cards.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card. NL Draw 2 cards."
+  },
+  "locksmith:DarkBurst": {
+    "NAME": "Dark Burst",
+    "DESCRIPTION": "Gain !B! Block. NL Trigger all locksmith:Hexx.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Trigger all locksmith:Hexx twice."
+  },
+  "locksmith:StormOfShpiel": {
+    "NAME": "Storm of Shpiel",
+    "DESCRIPTION": "Exhaust your hand. NL ALL enemies lose 1 Strength for each card Exhausted."
+  },
+  "locksmith:DeadlyReversal": {
+    "NAME": "Deadly Reversal",
+    "DESCRIPTION": "Play your exhaust pile. NL Exhaust."
+  },
+  "locksmith:InfiniteKeys": {
+    "NAME": "Infinite Keys",
+    "DESCRIPTION": "At the start of your turn, add a *Key into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a *Key into your hand."
+  },
+  "locksmith:SlowSapping": {
+    "NAME": "Slow Sapping",
+    "DESCRIPTION": "At the start of your turn, apply !M! locksmith:Hexx to ALL non-Dummy enemies and gain !M! Temporary_HP."
+  },
+  "locksmith:ShieldingDummy": {
+    "NAME": "Shielding Dummy",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL Whenever it loses HP, gain that much Block."
+  },
+  "locksmith:Exploit": {
+    "NAME": "Exploit",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy is locksmith:Crippled, gain [E] [E] [E] ."
+  },
+  "locksmith:Absorb": {
+    "NAME": "Absorb",
+    "DESCRIPTION": "Summon a Dummy with 10 HP. NL Whenever an enemy dies, gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Summon a Dummy with 10 HP. NL Whenever an enemy dies, gain 1 Strength."
+  },
+  "locksmith:DDummy": {
+    "NAME": "D-Dummy!",
+    "DESCRIPTION": "Dummies attack you for 1 damage. NL Whenever a Dummy dies, gain !M! Block."
+  },
+  "locksmith:Tsundere": {
+    "NAME": "Tsundere",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a Dummy, apply 1 Weak and Vulnerable to ALL enemies."
+  },
+  "locksmith:KillingKeys": {
+    "NAME": "Killing Keys",
+    "DESCRIPTION": "*Keys kill Dummies."
+  },
+  "locksmith:WarudoDummy": {
+    "NAME": "DIO Dummy",
+    "DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, take an extra turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Summon a Dummy with !M! HP. NL If it dies, take an extra turn. NL Exhaustive !stslib:ex!."
+  },
+  "locksmith:DarkMagic": {
+    "NAME": "Dark Magic",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx. NL Apply !todo! Weak. NL Apply !todo! Vulnerable. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! locksmith:Hexx. NL Apply !todo! Weak. NL Apply !todo! Vulnerable. NL Exhaustive !stslib:ex!."
+  },
+  "locksmith:SoulSucker": {
+    "NAME": "Soul Sucker",
+    "DESCRIPTION": "At the end of your turn, trigger the locksmith:Hexx of locksmith:Crippled enemies.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, trigger the locksmith:Hexx of locksmith:Crippled enemies. NL Apply 1 Weak and Vulnerable to ALL enemies."
+  },
+  "locksmith:InsidiousPower": {
+    "NAME": "Insidious Power",
+    "DESCRIPTION": "At the start of your turn, gain 1 locksmith:Hexx and [E] .",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, gain 1 locksmith:Hexx and [E] ."
+  },
+  "locksmith:Harvest": {
+    "NAME": "Harvest",
+    "DESCRIPTION": "Choose a card in your draw pile and remove it. NL Summon a Dummy with 10 HP. NL If it dies, play that card."
+  },
+  "locksmith:ItWasAJoke": {
+    "NAME": "\"I Was Merely Fooling\"",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, it revives with full HP."
+  },
+  "locksmith:Grab": {
+    "NAME": "Grab",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL If this kills an enemy, add 1 *Key into your hand."
+  },
+  "locksmith:HitDrawBurnBlockHitBlockDrawBurnHitBurnDrawBlock": {
+    "NAME": "Hit Draw Burn Block Hit Block Draw Burn Hit Burn Draw Block",
+    "DESCRIPTION": "Deal !D! damage. Draw !M! cards. NL Exhaust 1 card. Gain !B! Block. NL Deal !D! damage. Gain !B! Block. NL Draw !M! cards. Exhaust 1 card. NL Deal !D! damage. Exhaust 1 card. NL Draw !M! cards. Gain !B! Block."
+  },
+  "locksmith:Unearth": {
+    "NAME": "Unearth",
+    "DESCRIPTION": "Choose a card in your exhaust pile. NL Play the chosen card and Exhaust it. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose a card in your exhaust pile. NL Play the chosen card and Exhaust it. NL Exhaustive !stslib:ex!."
+  },
+  "locksmith:FeelNoFeign": {
+    "NAME": "Feel No Feign",
+    "DESCRIPTION": "Whenever a card is Exhausted, gain !M! Block next turn."
+  },
+  "locksmith:Burden": {
+    "NAME": "Burden",
+    "DESCRIPTION": "Whenever a card is Exhausted this turn, gain 1 Strength. NL Exhaust."
+  },
+  "locksmith:DarkDoom": {
+    "NAME": "Dark Doom",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx."
+  },
+  "locksmith:AoeMultiAttackPlusAKey": {
+    "NAME": "AOE Multi Attack + Key",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies 3 times. NL Add 1 *Key into your hand."
+  },
+  "locksmith:GoAway": {
+    "NAME": "Go Away",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! Weak to ALL enemies."
+  },
+  "locksmith:SlamCrush": {
+    "NAME": "Slam Crush",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy is locksmith:Crippled, apply !M! locksmith:Hexx instead."
+  },
+  "locksmith:WaveOfRudeness": {
+    "NAME": "Wave Of Rudeness",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx and !todo! Vulnerable to ALL enemies. NL Exhaust."
+  },
+  "locksmith:GreaterEvil": {
+    "NAME": "Greater Evil",
+    "DESCRIPTION": "Deal !D! damage. NL locksmith:Equalize !M! times. NL Exhaust."
+  },
+  "locksmith:Horrify": {
+    "NAME": "Horrify",
+    "DESCRIPTION": "Apply !M! locksmith:Hexx to ALL locksmith:Crippled enemies. NL locksmith:Equalize ALL enemies."
+  },
+  "locksmith:ValueDummy": {
+    "NAME": "Value Select",
+    "DESCRIPTION": "Summon a Dummy with 10 HP. NL If it dies, draw !M! card and gain [E] .",
+    "UPGRADE_DESCRIPTION": "Summon a Dummy with 10 HP. NL If it dies, draw !M! cards and gain [E] [E] ."
+  },
+  "locksmith:TrueEvil": {
+    "NAME": "Enigma",
+    "DESCRIPTION": "Kill ALL enemies. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Kill ALL enemies. NL Exhaust."
+  },
+  "locksmith:HitBurnDrawBurnBlockBurn": {
+    "NAME": "HitBurnDrawBurnBlockBurn",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust 1 card. NL Draw !M! cards. NL Exhaust 1 card. NL Gain !B! Block. NL Exhaust 1 card."
+  },
+  "locksmith:TrashSlam": {
+    "NAME": "Trash Smash",
+    "DESCRIPTION": "Deal !D! damage. NL Damage is increased by !M! for each card in your exhaust pile."
+  },
+  "locksmith:LockedGuard": {
+    "NAME": "Unlock!",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Draw !M! cards."
+  },
+  "locksmith:Influx": {
+    "NAME": "Influx",
+    "DESCRIPTION": "Add !M! *Shitty *Keys into your hand.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add !M! *Shitty *Keys into your hand."
+  },
+  "locksmith:ShittyKey": {
+    "NAME": "Shitty Key",
+    "DESCRIPTION": "counts as key. NL etheral. NL del !D! Damge. NL exaust"
+  },
+  "locksmith:FriendlyGift": {
+    "NAME": "Friendly Gift",
+    "DESCRIPTION": "Give the enemy !M! Temporary_HP. NL If they die, add 3 *Keys into your hand."
+  },
+  "locksmith:LongDeadPower": {
+    "NAME": "Long Dead Power",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Strength."
+  }
+}
